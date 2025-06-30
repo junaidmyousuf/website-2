@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+Hiya! I am **Junaid Yousuf** here, an aspiring *Data Scientist*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
